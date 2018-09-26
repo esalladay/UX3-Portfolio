@@ -42,7 +42,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "text",
@@ -53,8 +53,8 @@
       "id": "58D880D7-6C0C-42B7-A394-D7FDCB70D939"
     },
     {
-      "class": "shapeGroup",
-      "id": "79A17542-4B76-4AC9-9B19-D9E344DCAC11"
+      "class": "group",
+      "id": "19666ACA-B574-438B-A0AB-D1E73ED0E59B"
     }
   ],
   "name": "Bio\\",

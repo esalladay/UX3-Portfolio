@@ -58,11 +58,47 @@
     },
     {
       "class": "group",
+      "id": "D417E7EF-D6BD-46AB-B647-8346EFE17E1E"
+    },
+    {
+      "class": "group",
       "id": "067E6543-2437-44B5-BF59-8F6880AE7E74"
     },
     {
       "class": "group",
       "id": "1D38096B-D50A-406F-972A-3E72CB3CF543"
+    },
+    {
+      "class": "group",
+      "id": "B8992371-AF6E-48C7-A73B-1035C02BCEBC"
+    },
+    {
+      "class": "group",
+      "id": "FCD89057-2ED1-4920-B1D9-5246CA561459"
+    },
+    {
+      "class": "bitmap",
+      "id": "391E100E-B9BD-4E0E-A689-ADF528C94AF2"
+    },
+    {
+      "class": "bitmap",
+      "id": "DB494F9E-603E-4B42-8808-599CD9A62077"
+    },
+    {
+      "class": "bitmap",
+      "id": "F7E60865-CAF7-4749-9206-D46CEFAC8409"
+    },
+    {
+      "class": "bitmap",
+      "id": "668E30B1-FE01-48C9-B374-B410A8C185B2"
+    },
+    {
+      "class": "bitmap",
+      "id": "4B9FFFFD-47EF-4BA8-98BF-758D16E1174D"
+    },
+    {
+      "class": "bitmap",
+      "id": "606FA80C-BFD8-4E51-9B64-359FE0D7C382"
     }
   ],
   "name": "Moodboard Collage",
