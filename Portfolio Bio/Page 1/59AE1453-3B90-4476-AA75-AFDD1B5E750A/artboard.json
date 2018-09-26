@@ -50,7 +50,19 @@
   "layers": [
     {
       "class": "bitmap",
-      "id": "3EF5C346-2735-480E-9D4C-16D046998C37"
+      "id": "63DCBA27-E923-49A2-99CC-C1977C059E6C"
+    },
+    {
+      "class": "bitmap",
+      "id": "2989B594-739B-4222-B0CA-B404CC41AD81"
+    },
+    {
+      "class": "group",
+      "id": "067E6543-2437-44B5-BF59-8F6880AE7E74"
+    },
+    {
+      "class": "group",
+      "id": "1D38096B-D50A-406F-972A-3E72CB3CF543"
     }
   ],
   "name": "Moodboard Collage",
