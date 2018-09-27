@@ -50,19 +50,11 @@
   "layers": [
     {
       "class": "bitmap",
-      "id": "63DCBA27-E923-49A2-99CC-C1977C059E6C"
-    },
-    {
-      "class": "bitmap",
       "id": "2989B594-739B-4222-B0CA-B404CC41AD81"
     },
     {
       "class": "group",
       "id": "D417E7EF-D6BD-46AB-B647-8346EFE17E1E"
-    },
-    {
-      "class": "group",
-      "id": "067E6543-2437-44B5-BF59-8F6880AE7E74"
     },
     {
       "class": "group",
@@ -99,6 +91,50 @@
     {
       "class": "bitmap",
       "id": "606FA80C-BFD8-4E51-9B64-359FE0D7C382"
+    },
+    {
+      "class": "bitmap",
+      "id": "8C263FA2-BA1A-4AF1-88C1-CF451629FBE3"
+    },
+    {
+      "class": "bitmap",
+      "id": "8C74F675-1A8C-4B18-8523-436E5B05EC2C"
+    },
+    {
+      "class": "text",
+      "id": "8302ACE5-4F51-4A0D-A12D-FEFB971E1488"
+    },
+    {
+      "class": "group",
+      "id": "067E6543-2437-44B5-BF59-8F6880AE7E74"
+    },
+    {
+      "class": "bitmap",
+      "id": "84EF4487-AFAB-4C06-A538-43D0BE88652B"
+    },
+    {
+      "class": "bitmap",
+      "id": "63DCBA27-E923-49A2-99CC-C1977C059E6C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "63ECB019-38EE-4039-BD89-9BEF3AD20183"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0C5974DF-47B3-4078-A228-7D7BF639C87D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CE625DE5-2BBA-438A-95D7-13F98F1D931B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4264F24E-3CF6-4526-BCF7-5BD99BAD5B79"
+    },
+    {
+      "class": "text",
+      "id": "9EDA2E79-D483-4873-B1A6-421EA450F577"
     }
   ],
   "name": "Moodboard Collage",
