@@ -2,10 +2,10 @@
   "_class": "shapeGroup",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "4264F24E-3CF6-4526-BCF7-5BD99BAD5B79",
+  "do_objectID": "4A63B75E-C3E1-441F-801A-CBAE8A743D98",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "94EEC7B1-8987-44F5-A3B3-8BE49C1E3E7E",
+    "do_objectID": "81FDE0A2-82E9-4681-8A80-4077AA667284",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,12 +15,12 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "do_objectID": "B4CB29C5-7119-4997-AE8A-5EEC99C10288",
-    "height": 88,
-    "width": 88,
-    "x": 538.3414034479563,
-    "y": -7.658596552043782
+    "constrainProportions": false,
+    "do_objectID": "B6354617-5AD5-4B26-B895-A139EE560475",
+    "height": 22,
+    "width": 80,
+    "x": 0,
+    "y": 0
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -29,18 +29,18 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "oval",
-      "id": "37E78AC7-118B-466B-B724-6BD9851E690B"
+      "class": "rectangle",
+      "id": "675799D2-BF44-4AAC-8341-1C7A94725415"
     }
   ],
-  "name": "Oval Copy 3",
+  "name": "Rectangle 3",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
-  "rotation": -9,
+  "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -56,11 +56,11 @@
         },
         "fillType": 0,
         "isEnabled": false,
-        "position": 0,
+        "position": 1,
         "thickness": 1
       }
     ],
-    "do_objectID": "2CCBFCD1-423D-4D35-97B0-79DC29221155",
+    "do_objectID": "A63603CD-F444-48D8-9D1C-ACA08A1FA087",
     "endMarkerType": 0,
     "fills": [
       {
@@ -68,9 +68,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.6260363520408163,
-          "green": 0.059333148579626,
-          "red": 0.3426847503102212
+          "blue": 0.6274509803921569,
+          "green": 0.05882352941176471,
+          "red": 0.3411764705882354
         },
         "fillType": 0,
         "isEnabled": true,

@@ -16,27 +16,27 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "BodoniSvtyTwoITCTT-Book",
-              "size": 36
+              "name": "Montserrat-Medium",
+              "size": 18
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle"
-          },
-          "textStyleVerticalAlignmentKey": 0
+          }
         },
-        "length": 9,
+        "length": 11,
         "location": 0
       }
     ],
-    "string": "stay woke"
+    "string": "Subheading "
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
-  "do_objectID": "9EDA2E79-D483-4873-B1A6-421EA450F577",
+  "do_objectID": "E0137114-92EC-49D9-B57A-F9C61A927422",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "63802D09-3A8D-4146-A713-1479957626DF",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -47,12 +47,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 46,
-    "width": 140,
-    "x": 177,
-    "y": 396
+    "do_objectID": "F44081A8-8126-4F0B-9B6C-8D1218257FA9",
+    "height": 43,
+    "width": 365,
+    "x": 19,
+    "y": 71
   },
-  "glyphBounds": "{{1, 8}, {128, 36}}",
+  "glyphBounds": "{{0, 3}, {110, 18}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -60,19 +61,21 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "stay woke",
+  "name": "Subheading",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "0DADAF92-CF1B-4A95-BA79-7A19EB1EB45B",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "4F421BC6-73C6-4794-AA51-F98356A1E998",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -84,14 +87,13 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "BodoniSvtyTwoITCTT-Book",
-            "size": 36
+            "name": "Montserrat-Medium",
+            "size": 18
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle"
-        },
-        "textStyleVerticalAlignmentKey": 0
+        }
       },
       "verticalAlignment": 0
     },
