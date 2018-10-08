@@ -1,7 +1,7 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": -1,
-  "do_objectID": "DA784627-2300-447A-8EAE-5C74FCB1D33D",
+  "do_objectID": "E0F4530C-E36D-4798-8F1B-415B7522A394",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,10 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 294,
-    "width": 199,
-    "x": 2,
-    "y": 3
+    "height": 22,
+    "width": 80,
+    "x": 201,
+    "y": 439
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -26,7 +26,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "text styles",
+  "name": "tag",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -42,6 +42,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "B31390B0-C476-47CE-A92D-DC43386BCEEC",
+  "symbolID": "7B43D2C7-EEF8-42D4-9BB2-E83E5DC27B6E",
   "verticalSpacing": 0
 }

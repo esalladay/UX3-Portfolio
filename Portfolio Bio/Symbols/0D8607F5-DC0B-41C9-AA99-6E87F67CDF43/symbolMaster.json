@@ -1,5 +1,5 @@
 {
-  "_class": "artboard",
+  "_class": "symbolMaster",
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
@@ -8,7 +8,8 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "do_objectID": "975E0D16-F5AC-4BF9-982E-5947999E521C",
+  "changeIdentifier": 349,
+  "do_objectID": "0D8607F5-DC0B-41C9-AA99-6E87F67CDF43",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -21,10 +22,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 792,
-    "width": 612,
-    "x": -307,
-    "y": -397
+    "height": 408,
+    "width": 408,
+    "x": 215,
+    "y": -43
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -35,6 +36,7 @@
     ]
   },
   "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -42,46 +44,19 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "group",
-      "id": "7335CE19-006E-4458-B53B-39739A036430"
+      "class": "shapeGroup",
+      "id": "A5254A63-C4FC-4384-B097-E73D7B2AB045"
     },
     {
-      "class": "symbolInstance",
-      "id": "7FCD04ED-917C-4AC5-B4C3-678EAAEEFFC1"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "DA784627-2300-447A-8EAE-5C74FCB1D33D"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "E0F4530C-E36D-4798-8F1B-415B7522A394"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "B7523B36-03D1-48D0-8470-D79DAFA0F84F"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "EC97F1FF-4B17-4BA2-80EF-D66E05AD7BFC"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "6B025172-F099-450B-913A-F394E8C316A6"
+      "class": "text",
+      "id": "7EEC712F-EAF7-4DD8-96ED-4050BED484BF"
     }
   ],
-  "name": "Letter",
+  "name": "image holder",
   "nameIsFixed": false,
-  "presetDictionary": {
-    "allowResizedMatching": 0,
-    "height": 792,
-    "name": "Letter",
-    "offersLandscapeVariant": 1,
-    "width": 612
-  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -94,6 +69,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "48662F1D-8D78-41A3-AB96-8E1DE9EC2D66",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

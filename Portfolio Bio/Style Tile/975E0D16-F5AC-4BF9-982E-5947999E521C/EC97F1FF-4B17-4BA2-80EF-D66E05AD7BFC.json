@@ -1,7 +1,7 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": -1,
-  "do_objectID": "DA784627-2300-447A-8EAE-5C74FCB1D33D",
+  "do_objectID": "EC97F1FF-4B17-4BA2-80EF-D66E05AD7BFC",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,10 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 294,
-    "width": 199,
-    "x": 2,
-    "y": 3
+    "height": 15,
+    "width": 15,
+    "x": 205,
+    "y": 480
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -26,7 +26,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "text styles",
+  "name": "checkbox",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -42,6 +42,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "B31390B0-C476-47CE-A92D-DC43386BCEEC",
+  "symbolID": "7B2D05D1-C8EE-4C99-A793-83DF87E22D66",
   "verticalSpacing": 0
 }

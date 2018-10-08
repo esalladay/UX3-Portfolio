@@ -21,22 +21,22 @@
             }
           },
           "paragraphStyle": {
-            "_class": "paragraphStyle"
+            "_class": "paragraphStyle",
+            "alignment": 2
           }
         },
-        "length": 84,
+        "length": 11,
         "location": 0
       }
     ],
-    "string": "Body text. Paragraph form. Descriptive information pertaining to the topic at hand. "
+    "string": "Place Image"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
-  "do_objectID": "C6E06D92-0B3B-4CE8-AB9F-C52582B25445",
+  "do_objectID": "7EEC712F-EAF7-4DD8-96ED-4050BED484BF",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "58B98FE9-7E33-4920-997F-3F13CA699D64",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -47,13 +47,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "BFC59856-3D82-46F7-AE07-3D82A00D4266",
-    "height": 175,
-    "width": 161,
-    "x": 19,
-    "y": 104
+    "height": 18,
+    "width": 88,
+    "x": 160,
+    "y": 204
   },
-  "glyphBounds": "{{0, 3}, {160, 68}}",
+  "glyphBounds": "{{1, 3}, {86, 14}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -61,7 +60,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Body text. Paragraph",
+  "name": "Place Image",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -69,7 +68,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "4B098434-9E92-43AA-A017-CEBA262BE7D7",
+    "do_objectID": "361A8792-0523-4842-B2A3-C0A84CFE4644",
     "endMarkerType": 0,
     "miterLimit": 10,
     "sharedObjectID": "BA9441AF-8210-4B15-A99E-BE0A88A78723",
@@ -92,12 +91,13 @@
           }
         },
         "paragraphStyle": {
-          "_class": "paragraphStyle"
+          "_class": "paragraphStyle",
+          "alignment": 2
         }
       },
       "verticalAlignment": 0
     },
     "windingRule": 1
   },
-  "textBehaviour": 2
+  "textBehaviour": 0
 }
