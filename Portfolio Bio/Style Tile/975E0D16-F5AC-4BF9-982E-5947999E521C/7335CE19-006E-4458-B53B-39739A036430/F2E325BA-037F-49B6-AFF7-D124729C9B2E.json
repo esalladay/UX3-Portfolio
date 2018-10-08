@@ -15,7 +15,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 43,
-    "width": 132,
+    "width": 154,
     "x": 0,
     "y": 0
   },
@@ -29,6 +29,12 @@
   "name": "button/standar",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4A53F38E-B315-40DF-A6C1-7256C050B06A",
+      "overrideName": "92172D3F-852C-4D3E-9EE5-3556B6B03FB8_stringValue",
+      "value": "View Prototype"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,

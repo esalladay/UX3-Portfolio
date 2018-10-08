@@ -50,11 +50,7 @@
     },
     {
       "class": "symbolInstance",
-      "id": "7FCD04ED-917C-4AC5-B4C3-678EAAEEFFC1"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "E0F4530C-E36D-4798-8F1B-415B7522A394"
+      "id": "69DB1646-7016-4832-A4DE-299EBDF76A98"
     },
     {
       "class": "symbolInstance",
@@ -123,6 +119,14 @@
     {
       "class": "shapeGroup",
       "id": "AA2CCA9C-4460-4123-90A1-1114ED019427"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F328D94C-E549-4BA5-A066-F16E98A282AA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EFFE3368-02BB-466C-8918-50B3ADECD674"
     }
   ],
   "name": "Letter",

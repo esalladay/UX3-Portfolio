@@ -2,10 +2,10 @@
   "_class": "shapeGroup",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "21271F87-010C-403D-89A1-24E5090DCB24",
+  "do_objectID": "F328D94C-E549-4BA5-A066-F16E98A282AA",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "D38C8D04-4CE4-4A73-B383-7727E897F6EF",
+    "do_objectID": "01560EC8-BBB1-4B00-B082-8AEC2B7F9494",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "EAF3A642-6270-4F4D-B876-CECC0A011F38",
-    "height": 43,
-    "width": 221,
+    "do_objectID": "7D76B65B-C3E2-44A1-B94F-8B73CAA670F7",
+    "height": 61,
+    "width": 154,
     "x": 0,
-    "y": 0
+    "y": 184
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -33,10 +33,10 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "F2A52B81-9A82-44C1-9604-AB7A1A650CE0"
+      "id": "32C8F3D7-AF89-469A-9FBF-7A1B4A7619AC"
     }
   ],
-  "name": "Rectangle 2",
+  "name": "Rectangle Copy 3",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -50,17 +50,17 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.3647058823529412,
-          "green": 0.792156862745098,
-          "red": 0.4431372549019607
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
         },
         "fillType": 0,
-        "isEnabled": true,
+        "isEnabled": false,
         "position": 1,
         "thickness": 1
       }
     ],
-    "do_objectID": "2AD52A00-6690-4C49-94CD-867B10084337",
+    "do_objectID": "4B81E066-219D-449E-931A-AC817638D1B9",
     "endMarkerType": 0,
     "fills": [
       {
@@ -68,12 +68,12 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.847,
-          "green": 0.847,
-          "red": 0.847
+          "blue": 0,
+          "green": 0,
+          "red": 0
         },
         "fillType": 0,
-        "isEnabled": false,
+        "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
         "patternFillType": 1,

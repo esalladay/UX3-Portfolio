@@ -15,9 +15,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 18,
-    "width": 43,
-    "x": 364,
-    "y": 528
+    "width": 104,
+    "x": 360,
+    "y": 520
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -29,6 +29,12 @@
   "name": "link",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "38EC4F42-A67E-47DD-A56F-35C2640EDA17",
+      "overrideName": "5A4A3043-7B57-404F-9DEC-FCC4F23B5C13_stringValue",
+      "value": "Check this out"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,

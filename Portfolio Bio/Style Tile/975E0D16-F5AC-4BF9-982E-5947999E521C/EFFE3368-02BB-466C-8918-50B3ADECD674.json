@@ -1,7 +1,7 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": -1,
-  "do_objectID": "E0F4530C-E36D-4798-8F1B-415B7522A394",
+  "do_objectID": "EFFE3368-02BB-466C-8918-50B3ADECD674",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,10 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 22,
-    "width": 80,
-    "x": 348,
-    "y": 567
+    "height": 139,
+    "width": 332,
+    "x": 8,
+    "y": 601
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -26,9 +26,15 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "tag",
+  "name": "button/standar copy",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7012E21E-B75F-4634-8D49-3D682D5A0C39",
+      "overrideName": "22C2F439-D738-448F-BCDD-5FE4882FD2EF_stringValue",
+      "value": "description of project here. explain the process, what you enjoyed or what you learned that was extremely valuable."
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -42,6 +48,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "7B43D2C7-EEF8-42D4-9BB2-E83E5DC27B6E",
+  "symbolID": "996BCFF3-FD4E-49F2-96A4-44987675A9B6",
   "verticalSpacing": 0
 }

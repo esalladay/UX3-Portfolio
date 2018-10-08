@@ -18,8 +18,8 @@
     "constrainProportions": false,
     "do_objectID": "70944D7E-82A1-4577-9B44-52676CB2A47B",
     "height": 61,
-    "width": 205,
-    "x": 409,
+    "width": 154,
+    "x": 458,
     "y": 184
   },
   "hasClickThrough": false,
@@ -68,9 +68,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.01292675476766227,
-          "green": 0.8895285043589186,
-          "red": 0.959343112244898
+          "blue": 0.1098039215686274,
+          "green": 0.9058823529411764,
+          "red": 0.9725490196078431
         },
         "fillType": 0,
         "isEnabled": true,
