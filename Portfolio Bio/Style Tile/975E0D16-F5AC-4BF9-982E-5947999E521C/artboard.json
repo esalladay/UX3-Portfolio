@@ -71,6 +71,30 @@
     {
       "class": "symbolInstance",
       "id": "6B025172-F099-450B-913A-F394E8C316A6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "35F954A7-C697-47A3-9C5F-4E8C08D4F452"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2D05EE87-9153-405B-8E1F-546F3BF44E59"
+    },
+    {
+      "class": "text",
+      "id": "182DFC3B-F69B-426A-9FEC-5840516FC328"
+    },
+    {
+      "class": "text",
+      "id": "D7B28A8F-DFB5-4CD4-B286-F620022E8478"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FB436C0F-F1EB-4A2A-87CF-B7FCF2E751F4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "22C39AF8-B926-4581-80E2-37D473B018D2"
     }
   ],
   "name": "Letter",

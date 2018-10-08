@@ -25,11 +25,11 @@
             "alignment": 2
           }
         },
-        "length": 13,
+        "length": 12,
         "location": 0
       }
     ],
-    "string": "Text in field"
+    "string": "textbox here"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -54,7 +54,7 @@
     "x": 19,
     "y": 11
   },
-  "glyphBounds": "{{10, 3}, {80, 12}}",
+  "glyphBounds": "{{6, 3}, {88, 12}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -62,7 +62,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Text in field",
+  "name": "textbox here",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

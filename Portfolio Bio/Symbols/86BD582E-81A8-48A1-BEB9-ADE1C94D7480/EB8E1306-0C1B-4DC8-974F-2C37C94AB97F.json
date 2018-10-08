@@ -9,33 +9,36 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 1,
-            "green": 1,
-            "red": 1
+            "blue": 0,
+            "green": 0,
+            "red": 0
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Montserrat-Regular",
-              "size": 14
+              "size": 10
             }
           },
           "paragraphStyle": {
-            "_class": "paragraphStyle"
-          }
+            "_class": "paragraphStyle",
+            "alignment": 0
+          },
+          "textStyleVerticalAlignmentKey": 0
         },
-        "length": 6,
+        "length": 11,
         "location": 0
       }
     ],
-    "string": "button"
+    "string": "In progress"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
-  "do_objectID": "92172D3F-852C-4D3E-9EE5-3556B6B03FB8",
+  "do_objectID": "EB8E1306-0C1B-4DC8-974F-2C37C94AB97F",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "19DF2229-3080-4C06-8DE0-B99CE2A47B6D",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -46,12 +49,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 18,
-    "width": 49,
-    "x": 46,
-    "y": 11
+    "do_objectID": "100E5149-F9E3-44C6-8CB5-83CBDC44F66B",
+    "height": 13,
+    "width": 56,
+    "x": 75,
+    "y": 21
   },
-  "glyphBounds": "{{1, 3}, {46, 12}}",
+  "glyphBounds": "{{1, 3}, {55, 9}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -59,7 +63,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "button",
+  "name": "In progress",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -67,31 +71,33 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "C10E8446-A2DA-4515-B314-D577E21B0AFD",
+    "do_objectID": "C6E5F8DC-12E5-425F-BFA9-D7F3C3762D0C",
     "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "BA9441AF-8210-4B15-A99E-BE0A88A78723",
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "51A98A39-A502-4771-81CD-FEB1D514555B",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
+          "blue": 0,
+          "green": 0,
+          "red": 0
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Montserrat-Regular",
-            "size": 14
+            "size": 10
           }
         },
         "paragraphStyle": {
-          "_class": "paragraphStyle"
-        }
+          "_class": "paragraphStyle",
+          "alignment": 0
+        },
+        "textStyleVerticalAlignmentKey": 0
       },
       "verticalAlignment": 0
     },

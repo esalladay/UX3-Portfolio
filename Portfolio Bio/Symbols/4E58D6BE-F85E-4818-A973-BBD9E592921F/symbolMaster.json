@@ -8,8 +8,8 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 301,
-  "do_objectID": "532183C5-0675-40D0-9837-1F4A7E93E999",
+  "changeIdentifier": 3,
+  "do_objectID": "4E58D6BE-F85E-4818-A973-BBD9E592921F",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,10 +22,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 43,
-    "width": 132,
-    "x": -179,
-    "y": 2
+    "height": 18,
+    "width": 43,
+    "x": 952,
+    "y": -43
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -47,15 +47,11 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "CAD6F753-0AC7-4E10-AA06-5DB3622C941B"
-    },
-    {
       "class": "text",
-      "id": "92172D3F-852C-4D3E-9EE5-3556B6B03FB8"
+      "id": "5A4A3043-7B57-404F-9DEC-FCC4F23B5C13"
     }
   ],
-  "name": "button/standar",
+  "name": "link",
   "nameIsFixed": false,
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -69,7 +65,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "0193E640-D48C-4299-A350-CDA05CAF34B3",
+  "symbolID": "D55ADDFB-0317-4CB8-B0D6-B7A72CA60268",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

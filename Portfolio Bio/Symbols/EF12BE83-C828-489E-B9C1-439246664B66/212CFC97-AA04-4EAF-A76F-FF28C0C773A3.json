@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 1,
-            "green": 1,
-            "red": 1
+            "blue": 0,
+            "green": 0,
+            "red": 0
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -21,21 +21,23 @@
             }
           },
           "paragraphStyle": {
-            "_class": "paragraphStyle"
+            "_class": "paragraphStyle",
+            "alignment": 0
           }
         },
-        "length": 6,
+        "length": 29,
         "location": 0
       }
     ],
-    "string": "button"
+    "string": "special box for special text "
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
-  "do_objectID": "92172D3F-852C-4D3E-9EE5-3556B6B03FB8",
+  "do_objectID": "212CFC97-AA04-4EAF-A76F-FF28C0C773A3",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "F9D3DB1A-4D26-4C6A-B8BC-C60B7B6E0EB7",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -46,12 +48,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+    "do_objectID": "4D8FD83B-B513-4A94-827D-0F2A1C18160C",
     "height": 18,
-    "width": 49,
-    "x": 46,
+    "width": 276,
+    "x": 19,
     "y": 11
   },
-  "glyphBounds": "{{1, 3}, {46, 12}}",
+  "glyphBounds": "{{0, 3}, {183, 14}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -59,7 +62,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "button",
+  "name": "special box for spec",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -67,20 +70,21 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "C10E8446-A2DA-4515-B314-D577E21B0AFD",
+    "do_objectID": "BE9B308A-E41D-4A54-A8DF-69C319551164",
     "endMarkerType": 0,
     "miterLimit": 10,
     "sharedObjectID": "BA9441AF-8210-4B15-A99E-BE0A88A78723",
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "A4A1699E-A611-41A4-994C-154A7A664447",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
+          "blue": 0,
+          "green": 0,
+          "red": 0
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
@@ -90,12 +94,13 @@
           }
         },
         "paragraphStyle": {
-          "_class": "paragraphStyle"
+          "_class": "paragraphStyle",
+          "alignment": 0
         }
       },
       "verticalAlignment": 0
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 1
 }

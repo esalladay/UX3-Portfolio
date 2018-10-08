@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 1,
-            "green": 1,
-            "red": 1
+            "blue": 0.1298772692680359,
+            "green": 0.8262341022491455,
+            "red": 0.4941504597663879
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -21,18 +21,22 @@
             }
           },
           "paragraphStyle": {
-            "_class": "paragraphStyle"
-          }
+            "_class": "paragraphStyle",
+            "alignment": 0
+          },
+          "strikethroughStyle": 0,
+          "textStyleVerticalAlignmentKey": 0,
+          "underlineStyle": 1
         },
-        "length": 6,
+        "length": 7,
         "location": 0
       }
     ],
-    "string": "button"
+    "string": "A link!"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
-  "do_objectID": "92172D3F-852C-4D3E-9EE5-3556B6B03FB8",
+  "do_objectID": "5A4A3043-7B57-404F-9DEC-FCC4F23B5C13",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -47,11 +51,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 18,
-    "width": 49,
-    "x": 46,
-    "y": 11
+    "width": 43,
+    "x": 0,
+    "y": 0
   },
-  "glyphBounds": "{{1, 3}, {46, 12}}",
+  "glyphBounds": "{{0, 3}, {42, 12}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -59,7 +63,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "button",
+  "name": "A link!",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -67,10 +71,8 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "C10E8446-A2DA-4515-B314-D577E21B0AFD",
     "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "BA9441AF-8210-4B15-A99E-BE0A88A78723",
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
@@ -78,9 +80,9 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
+          "blue": 0.1298772692680359,
+          "green": 0.8262341022491455,
+          "red": 0.4941504597663879
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
@@ -90,8 +92,12 @@
           }
         },
         "paragraphStyle": {
-          "_class": "paragraphStyle"
-        }
+          "_class": "paragraphStyle",
+          "alignment": 0
+        },
+        "strikethroughStyle": 0,
+        "textStyleVerticalAlignmentKey": 0,
+        "underlineStyle": 1
       },
       "verticalAlignment": 0
     },
