@@ -58,10 +58,6 @@
     },
     {
       "class": "group",
-      "id": "1D38096B-D50A-406F-972A-3E72CB3CF543"
-    },
-    {
-      "class": "group",
       "id": "B8992371-AF6E-48C7-A73B-1035C02BCEBC"
     },
     {
@@ -127,6 +123,14 @@
     {
       "class": "shapeGroup",
       "id": "4264F24E-3CF6-4526-BCF7-5BD99BAD5B79"
+    },
+    {
+      "class": "bitmap",
+      "id": "D33B96B7-7C41-44F0-BC0F-42E8C5A85CBF"
+    },
+    {
+      "class": "group",
+      "id": "1D38096B-D50A-406F-972A-3E72CB3CF543"
     }
   ],
   "name": "Moodboard Collage",

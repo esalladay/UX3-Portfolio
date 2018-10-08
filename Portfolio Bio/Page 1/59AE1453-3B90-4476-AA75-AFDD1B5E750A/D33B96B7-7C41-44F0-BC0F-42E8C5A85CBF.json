@@ -1,7 +1,8 @@
 {
-  "_class": "group",
+  "_class": "bitmap",
   "booleanOperation": -1,
-  "do_objectID": "067E6543-2437-44B5-BF59-8F6880AE7E74",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "D33B96B7-7C41-44F0-BC0F-42E8C5A85CBF",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -11,32 +12,28 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
+  "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "height": 187,
-    "width": 187,
-    "x": 254,
-    "y": 303
+    "constrainProportions": true,
+    "height": 349,
+    "width": 465,
+    "x": 177,
+    "y": 380
   },
-  "hasClickThrough": false,
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/86dda47d5d20006f00da5694a792406e0e44fee5.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "shapeGroup",
-      "id": "56F7A615-A5F2-4AA5-864A-88B157BB29C6"
-    },
-    {
-      "class": "bitmap",
-      "id": "36AE5890-89B9-463F-A792-B0675767D5C3"
-    }
-  ],
-  "name": "Health-Benefits-of-Chai-Tea",
+  "name": "UX3 Moodboard (1)",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
