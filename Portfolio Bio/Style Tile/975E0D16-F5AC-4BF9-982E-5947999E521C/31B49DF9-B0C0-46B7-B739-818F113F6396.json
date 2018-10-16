@@ -24,19 +24,19 @@
             "_class": "paragraphStyle"
           }
         },
-        "length": 11,
+        "length": 14,
         "location": 0
       }
     ],
-    "string": "Subheading "
+    "string": "Type something"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
-  "do_objectID": "E0137114-92EC-49D9-B57A-F9C61A927422",
+  "do_objectID": "31B49DF9-B0C0-46B7-B739-818F113F6396",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "63802D09-3A8D-4146-A713-1479957626DF",
+    "do_objectID": "BD5EE1F1-0969-4D19-86E5-0C7086EE85F1",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -47,13 +47,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "F44081A8-8126-4F0B-9B6C-8D1218257FA9",
-    "height": 43,
-    "width": 365,
-    "x": 19,
-    "y": 71
+    "do_objectID": "E01F0C1D-E406-4D29-9B2A-40812CCEDDEC",
+    "height": 22,
+    "width": 149,
+    "x": 403,
+    "y": 676
   },
-  "glyphBounds": "{{0, 3}, {110, 18}}",
+  "glyphBounds": "{{0, 3}, {147, 18}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -61,7 +61,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Subheading",
+  "name": "Type something Copy",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -69,7 +69,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "0DADAF92-CF1B-4A95-BA79-7A19EB1EB45B",
+    "do_objectID": "9F914DB7-0BE6-4619-B83D-785D15F7D4F9",
     "endMarkerType": 0,
     "miterLimit": 10,
     "sharedObjectID": "C6993DEE-7559-4558-ADBE-2E478077FD63",
@@ -99,5 +99,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 2
+  "textBehaviour": 0
 }

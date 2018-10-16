@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "A18EA0AB-F9B8-40CF-A0D5-F9171714B30E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DE4CB263-2A8B-418F-A7E9-08C8DED2CB3B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DED6B3EC-0BC8-491B-A542-DB9C7EBEA42B",
+    "height": 182,
+    "width": 505,
+    "x": 173,
+    "y": 1913
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "button/description",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DB6EF8AE-E609-41EB-A8F7-8AF7359CCDD8",
+      "overrideName": "22C2F439-D738-448F-BCDD-5FE4882FD2EF_stringValue",
+      "value": "lorem ipsuhidfjksdhfakl sdfkjalajakas kjdhfajks duekajdfhkjas kjdfhakj. kjsdhfjk as akjdshfkja has kjdfhak jsd ak weu ak dkjfheu asdjfhadsk wkuerhw haskd skdrheu dsdjfhekr hewu sdk jerruak adjfeka djkf ueiruaelke d, sek rewur asdfewaire dfka wirweioet las ie sd,ei wo a,kfeir adflkas eiad;ferie al,  eiruie a; rw. ieufewoi fdlkfjewio. "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9A314F22-E2F7-48F0-AD50-B67815030573",
+      "overrideName": "61B3C212-27BE-4B41-8CD3-5756215E0B0B_stringValue",
+      "value": "A travel app that will allow users to get to their desired destination while marking additional locations along the way related to their interests. The user simply enters where they want to go, selects what kind of services/businesses they are looking for, and the app generates routes based off the chosen interests!"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6DCACE1E-21B6-4D40-A78D-41462B6AEDD3",
+      "overrideName": "01F1E14D-8D41-42F6-97FC-D52FA133AEA8_stringValue",
+      "value": "Routes"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "86FCFA14-F19C-4B7C-966E-9A574E4D2007",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "996BCFF3-FD4E-49F2-96A4-44987675A9B6",
+  "verticalSpacing": 0
+}

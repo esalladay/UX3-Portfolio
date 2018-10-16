@@ -127,6 +127,18 @@
     {
       "class": "symbolInstance",
       "id": "EFFE3368-02BB-466C-8918-50B3ADECD674"
+    },
+    {
+      "class": "text",
+      "id": "11044526-7E7A-47B7-9F5D-3ACC83799BB1"
+    },
+    {
+      "class": "text",
+      "id": "31B49DF9-B0C0-46B7-B739-818F113F6396"
+    },
+    {
+      "class": "text",
+      "id": "753C94F2-9E2B-410E-9D30-6F5B90497DD8"
     }
   ],
   "name": "Letter",

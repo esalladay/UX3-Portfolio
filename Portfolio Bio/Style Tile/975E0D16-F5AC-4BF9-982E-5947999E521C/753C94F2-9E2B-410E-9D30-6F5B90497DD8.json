@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Montserrat-Medium",
+              "name": "Didot",
               "size": 18
             }
           },
@@ -24,19 +24,19 @@
             "_class": "paragraphStyle"
           }
         },
-        "length": 11,
+        "length": 14,
         "location": 0
       }
     ],
-    "string": "Subheading "
+    "string": "Type something"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
-  "do_objectID": "E0137114-92EC-49D9-B57A-F9C61A927422",
+  "do_objectID": "753C94F2-9E2B-410E-9D30-6F5B90497DD8",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "63802D09-3A8D-4146-A713-1479957626DF",
+    "do_objectID": "4BBD9E07-F684-4A79-8EB1-B7264AFF21F6",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -47,13 +47,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "F44081A8-8126-4F0B-9B6C-8D1218257FA9",
-    "height": 43,
-    "width": 365,
-    "x": 19,
-    "y": 71
+    "do_objectID": "3090A08A-BEFF-45EA-8ABB-6967BE059C6E",
+    "height": 26,
+    "width": 129,
+    "x": 403,
+    "y": 702
   },
-  "glyphBounds": "{{0, 3}, {110, 18}}",
+  "glyphBounds": "{{0, 8}, {129, 19}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -61,7 +61,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Subheading",
+  "name": "Type something Copy 2",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -69,13 +69,14 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "0DADAF92-CF1B-4A95-BA79-7A19EB1EB45B",
+    "do_objectID": "44020F6D-D627-41BB-88EC-DBC4849602AE",
     "endMarkerType": 0,
     "miterLimit": 10,
     "sharedObjectID": "C6993DEE-7559-4558-ADBE-2E478077FD63",
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "1769BF77-8BCF-47DC-BD3B-0E5ADA28B2A5",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -87,7 +88,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Montserrat-Medium",
+            "name": "Didot",
             "size": 18
           }
         },
@@ -99,5 +100,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 2
+  "textBehaviour": 0
 }

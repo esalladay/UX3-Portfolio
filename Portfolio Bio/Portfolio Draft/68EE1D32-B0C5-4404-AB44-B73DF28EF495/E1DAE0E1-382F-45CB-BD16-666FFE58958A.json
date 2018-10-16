@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "E1DAE0E1-382F-45CB-BD16-666FFE58958A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2D476B83-8901-4C45-88CB-F8969BCE4F64",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "21E14A9E-6CD0-452D-8C48-7CA3FF30F278",
+    "height": 271,
+    "width": 505,
+    "x": 995,
+    "y": 941
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "button/description",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DB6EF8AE-E609-41EB-A8F7-8AF7359CCDD8",
+      "overrideName": "22C2F439-D738-448F-BCDD-5FE4882FD2EF_stringValue",
+      "value": "lorem ipsuhidfjksdhfakl sdfkjalajakas kjdhfajks duekajdfhkjas kjdfhakj. kjsdhfjk as akjdshfkja has kjdfhak jsd ak weu ak dkjfheu asdjfhadsk wkuerhw haskd skdrheu dsdjfhekr hewu sdk jerruak adjfeka djkf ueiruaelke d, sek rewur asdfewaire dfka wirweioet las ie sd,ei wo a,kfeir adflkas eiad;ferie al,  eiruie a; rw. ieufewoi fdlkfjewio. "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5B203C86-0C2A-4BE7-A14B-09F91CDBA732",
+      "overrideName": "61B3C212-27BE-4B41-8CD3-5756215E0B0B_stringValue",
+      "value": "An app for a space travel company that lets you travel to space and back safely. The user can choose their desintation(s), activities for the trip, book their flight, and buy additional gear.\n\n"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CA1D10FF-211E-431E-8460-C8010E5E4FC1",
+      "overrideName": "01F1E14D-8D41-42F6-97FC-D52FA133AEA8_stringValue",
+      "value": "SPACED"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4E4FA153-B3D8-44FB-8162-6A973297BDE4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "996BCFF3-FD4E-49F2-96A4-44987675A9B6",
+  "verticalSpacing": 0
+}

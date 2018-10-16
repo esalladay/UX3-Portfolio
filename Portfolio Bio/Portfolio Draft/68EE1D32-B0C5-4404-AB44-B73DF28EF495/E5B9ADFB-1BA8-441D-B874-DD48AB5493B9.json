@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "E5B9ADFB-1BA8-441D-B874-DD48AB5493B9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C51E8C11-B539-4070-96AB-76DE576B7291",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "60E12ED4-C89D-4A2D-946D-C18CCAA5FB52",
+    "height": 146,
+    "width": 505,
+    "x": 961,
+    "y": 1926
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "button/description",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DB6EF8AE-E609-41EB-A8F7-8AF7359CCDD8",
+      "overrideName": "22C2F439-D738-448F-BCDD-5FE4882FD2EF_stringValue",
+      "value": "lorem ipsuhidfjksdhfakl sdfkjalajakas kjdhfajks duekajdfhkjas kjdfhakj. kjsdhfjk as akjdshfkja has kjdfhak jsd ak weu ak dkjfheu asdjfhadsk wkuerhw haskd skdrheu dsdjfhekr hewu sdk jerruak adjfeka djkf ueiruaelke d, sek rewur asdfewaire dfka wirweioet las ie sd,ei wo a,kfeir adflkas eiad;ferie al,  eiruie a; rw. ieufewoi fdlkfjewio. "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "63B91114-B925-4180-A871-9B7AF23DC4A4",
+      "overrideName": "61B3C212-27BE-4B41-8CD3-5756215E0B0B_stringValue",
+      "value": "A collection of VCD student projects sorted into categories, with a section for featured designers whose work is being used/displayed."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "14DC9763-D47D-458B-9E36-1DBCA12D284E",
+      "overrideName": "01F1E14D-8D41-42F6-97FC-D52FA133AEA8_stringValue",
+      "value": "EWU Designer Website\n\n"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C93910AF-89EC-4A84-9725-E66007AB4D70",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "996BCFF3-FD4E-49F2-96A4-44987675A9B6",
+  "verticalSpacing": 0
+}

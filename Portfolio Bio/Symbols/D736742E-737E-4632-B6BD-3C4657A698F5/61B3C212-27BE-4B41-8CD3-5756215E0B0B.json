@@ -21,8 +21,7 @@
             }
           },
           "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0
+            "_class": "paragraphStyle"
           }
         },
         "length": 12,
@@ -33,11 +32,11 @@
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
-  "do_objectID": "22C2F439-D738-448F-BCDD-5FE4882FD2EF",
+  "do_objectID": "61B3C212-27BE-4B41-8CD3-5756215E0B0B",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "58B04CE9-98A5-4509-B0B3-B97677568E73",
+    "do_objectID": "EEC43137-78B7-4515-A717-0A287DD1664C",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -48,11 +47,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "048F28F5-F0F7-452F-A002-2A959CE0636E",
-    "height": 118,
+    "do_objectID": "AF0271D8-A61A-4CB3-9801-AFE22EC02879",
+    "height": 174,
     "width": 165,
     "x": 4,
-    "y": 4
+    "y": 41
   },
   "glyphBounds": "{{0, 3}, {88, 12}}",
   "isFixedToViewport": false,
@@ -64,19 +63,20 @@
   "lineSpacingBehaviour": 2,
   "name": "textbox here",
   "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "resizingConstraint": 11,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "351D708B-EE2F-49D5-A347-C6D8DC77B94F",
+    "do_objectID": "969B9801-5BD1-4CBC-9158-F2B5A12F50E7",
     "endMarkerType": 0,
     "miterLimit": 10,
     "sharedObjectID": "BA9441AF-8210-4B15-A99E-BE0A88A78723",
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "9EC17AFF-0369-484F-A03E-2C3F3EAE1243",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -93,8 +93,7 @@
           }
         },
         "paragraphStyle": {
-          "_class": "paragraphStyle",
-          "alignment": 0
+          "_class": "paragraphStyle"
         }
       },
       "verticalAlignment": 0

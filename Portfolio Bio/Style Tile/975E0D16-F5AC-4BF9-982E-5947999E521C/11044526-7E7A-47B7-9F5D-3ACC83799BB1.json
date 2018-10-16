@@ -16,27 +16,26 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Montserrat-Medium",
-              "size": 18
+              "name": "Montserrat-Regular",
+              "size": 14
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle"
           }
         },
-        "length": 11,
+        "length": 14,
         "location": 0
       }
     ],
-    "string": "Subheading "
+    "string": "Type something"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
-  "do_objectID": "E0137114-92EC-49D9-B57A-F9C61A927422",
+  "do_objectID": "11044526-7E7A-47B7-9F5D-3ACC83799BB1",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "63802D09-3A8D-4146-A713-1479957626DF",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -47,13 +46,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "F44081A8-8126-4F0B-9B6C-8D1218257FA9",
-    "height": 43,
-    "width": 365,
-    "x": 19,
-    "y": 71
+    "height": 18,
+    "width": 114,
+    "x": 403,
+    "y": 640
   },
-  "glyphBounds": "{{0, 3}, {110, 18}}",
+  "glyphBounds": "{{0, 3}, {113, 14}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -61,7 +59,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Subheading",
+  "name": "Type something",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -69,10 +67,10 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "0DADAF92-CF1B-4A95-BA79-7A19EB1EB45B",
+    "do_objectID": "AAFD4D61-852B-49AA-B0E7-1814AE077971",
     "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "C6993DEE-7559-4558-ADBE-2E478077FD63",
+    "sharedObjectID": "BA9441AF-8210-4B15-A99E-BE0A88A78723",
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
@@ -87,8 +85,8 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Montserrat-Medium",
-            "size": 18
+            "name": "Montserrat-Regular",
+            "size": 14
           }
         },
         "paragraphStyle": {
@@ -99,5 +97,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 2
+  "textBehaviour": 0
 }

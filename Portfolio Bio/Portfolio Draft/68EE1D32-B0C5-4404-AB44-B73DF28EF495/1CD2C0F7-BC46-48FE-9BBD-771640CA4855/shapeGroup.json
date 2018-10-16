@@ -2,9 +2,10 @@
   "_class": "shapeGroup",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "AF12CCCA-CAE2-4551-BF4C-A1AD3ABC30DD",
+  "do_objectID": "1CD2C0F7-BC46-48FE-9BBD-771640CA4855",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "E080998F-1330-400A-93AA-C589554D8C27",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,10 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 125,
-    "width": 178,
-    "x": 0,
-    "y": 0
+    "do_objectID": "A4C66B5F-F233-48C6-993F-F43984E7C363",
+    "height": 500,
+    "width": 1487,
+    "x": 46,
+    "y": 1842
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -31,10 +33,10 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "CF3025BA-4AAA-48DF-9149-B533653A16A7"
+      "id": "A42F5E4A-4BB2-4E1D-AEE8-436A2D1C1EE5"
     }
   ],
-  "name": "Rectangle 2",
+  "name": "Rectangle Copy",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -48,16 +50,17 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.6274509803921569,
-          "green": 0.05882352941176471,
-          "red": 0.3411764705882354
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
         },
         "fillType": 0,
-        "isEnabled": false,
+        "isEnabled": true,
         "position": 1,
         "thickness": 1
       }
     ],
+    "do_objectID": "FCBB24FF-A903-480D-A075-211C0A980C72",
     "endMarkerType": 0,
     "fills": [
       {
@@ -65,12 +68,12 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.847,
-          "green": 0.847,
-          "red": 0.847
+          "blue": 0.6274509803921569,
+          "green": 0.05882352941176471,
+          "red": 0.3411764705882354
         },
         "fillType": 0,
-        "isEnabled": false,
+        "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
         "patternFillType": 1,

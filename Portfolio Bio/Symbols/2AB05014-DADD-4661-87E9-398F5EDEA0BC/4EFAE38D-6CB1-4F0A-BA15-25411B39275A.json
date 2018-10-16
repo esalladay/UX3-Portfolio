@@ -24,19 +24,19 @@
             "_class": "paragraphStyle"
           }
         },
-        "length": 11,
+        "length": 15,
         "location": 0
       }
     ],
-    "string": "Subheading "
+    "string": "Subheading here"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
-  "do_objectID": "E0137114-92EC-49D9-B57A-F9C61A927422",
+  "do_objectID": "4EFAE38D-6CB1-4F0A-BA15-25411B39275A",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "63802D09-3A8D-4146-A713-1479957626DF",
+    "do_objectID": "15F151AE-6D10-469A-8A08-9E2AB8082207",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -47,13 +47,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "F44081A8-8126-4F0B-9B6C-8D1218257FA9",
-    "height": 43,
-    "width": 365,
-    "x": 19,
-    "y": 71
+    "do_objectID": "D3DB015A-C668-4D8D-924B-0A3E45D92F4E",
+    "height": 176,
+    "width": 165,
+    "x": 0,
+    "y": 0
   },
-  "glyphBounds": "{{0, 3}, {110, 18}}",
+  "glyphBounds": "{{0, 3}, {158, 18}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -61,21 +61,22 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Subheading",
+  "name": "Subheading here",
   "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "resizingConstraint": 11,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "0DADAF92-CF1B-4A95-BA79-7A19EB1EB45B",
+    "do_objectID": "122A236D-7372-4C23-8B76-11D40FEF6B46",
     "endMarkerType": 0,
     "miterLimit": 10,
     "sharedObjectID": "C6993DEE-7559-4558-ADBE-2E478077FD63",
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "88DAAFFC-46CF-41C0-8B18-50E4B1B17DB1",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",

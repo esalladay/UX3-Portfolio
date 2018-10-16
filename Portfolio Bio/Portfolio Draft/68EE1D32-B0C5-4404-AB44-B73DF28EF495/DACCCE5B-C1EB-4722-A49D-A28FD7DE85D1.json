@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "DACCCE5B-C1EB-4722-A49D-A28FD7DE85D1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B1D93A31-1C32-481C-95F9-6E1D4BAA4992",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "796621EC-82E3-47E1-AB1D-5EDAF53977DF",
+    "height": 244,
+    "width": 505,
+    "x": 161,
+    "y": 946
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "button/description",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DB6EF8AE-E609-41EB-A8F7-8AF7359CCDD8",
+      "overrideName": "22C2F439-D738-448F-BCDD-5FE4882FD2EF_stringValue",
+      "value": "lorem ipsuhidfjksdhfakl sdfkjalajakas kjdhfajks duekajdfhkjas kjdfhakj. kjsdhfjk as akjdshfkja has kjdfhak jsd ak weu ak dkjfheu asdjfhadsk wkuerhw haskd skdrheu dsdjfhekr hewu sdk jerruak adjfeka djkf ueiruaelke d, sek rewur asdfewaire dfka wirweioet las ie sd,ei wo a,kfeir adflkas eiad;ferie al,  eiruie a; rw. ieufewoi fdlkfjewio. "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1D077C10-BECE-41B3-AA04-E9D074FED43D",
+      "overrideName": "61B3C212-27BE-4B41-8CD3-5756215E0B0B_stringValue",
+      "value": "A new way for designers to get hired who want to work for nonprofits. Input your skills, qualifications, and work onto your profile and then the app matches you with a team and a campaign to collaborate on. Each team member communicates through the app’s interface which allows you and your team to chat, share images, videos, and work on the project simultaneously. This app simultaneously addresses the need for better design in nonprofits and the hit and miss job hunts so many designers experience while working as a freelancers."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "64BB02A1-1D5E-4208-B302-F62EB0BC9885",
+      "overrideName": "01F1E14D-8D41-42F6-97FC-D52FA133AEA8_stringValue",
+      "value": "Collab-It "
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "907A0244-CC13-49DE-BB09-C240F925B5C1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "996BCFF3-FD4E-49F2-96A4-44987675A9B6",
+  "verticalSpacing": 0
+}
