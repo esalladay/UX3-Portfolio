@@ -14,14 +14,46 @@
             }
           }
         },
-        "length": 1692,
+        "length": 963,
         "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Helvetica",
+              "size": 12
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle"
+          }
+        },
+        "length": 1,
+        "location": 963
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Helvetica",
+              "size": 12
+            }
+          }
+        },
+        "length": 735,
+        "location": 964
       }
     ],
-    "string": "Ellidie Salladay is a graphic designer specializing in user experience and web design. Her experience includes designing logos, websites, and apps and testing their usability on wayward friends and family. She has a strong belief that to achieve maximum success, one must be an open communicator with a passion for what they are doing and keep an open mind to new ideas. Taking a hands-on approach to work gives her an active and direct role in the design-making process, and her focused attitude keeps team collaboration productive and innovative. \nHer experience as a college accounting tutor and treasurer for the EWU Social Dancers Club showed her the importance of interpersonal communication. If there is one thing she learned during her studies at EWU, it is to keep communicating with others--even when it makes you want to tear your hair out and throw your coffee at them. Seriously though, don’t throw your coffee away. You’ll definitely need it.\nWhen she is not at her desk trying to be a cool designer, you can find her outside soaking in a sea of lavender. Ellidie enjoys spending as much time as possible outside, as it helps her stay grounded and see the world from a natural, calming perspective that carries over into her design thinking process. She lives on a farm running a small business with her family, called La La Lavenderland. They make a variety of homemade body-care products out of the lavender they grow and sell them at craft fairs and farmers markets. In addition to running the business with her mom, Ellidie also spends time gaming. Solving problems in the virtual world can be just as rewarding as it is in real life. At least, the npcs seem pretty happy. \n"
+    "string": "Ellidie Salladay is a graphic designer specializing in user experience and web design. Her experience includes designing logos, websites, and apps and testing their usability on wayward friends and family. She has a strong belief that to achieve maximum success, one must be an open communicator with a passion for what they are doing and keep an open mind to new ideas. She enjoys taking a hands-on approach to work that gives her an active role in the design-making process, and her focused attitude keeps team collaboration productive and innovative. \n\nHer experience as a college accounting tutor and treasurer for the EWU Social Dancers Club showed her the importance of interpersonal communication. If there is one thing she learned during her studies at EWU, it is to keep communicating with others--even when it makes you want to tear your hair out and throw your coffee at them. Seriously though, don’t throw your coffee away. You’ll definitely need it.\n\nWhen she is not at her desk trying to be a cool designer, you can find her outside soaking in a sea of lavender. Ellidie enjoys spending as much time as possible outside, as it helps her stay grounded and see the world from a natural, calming perspective that carries over into her design thinking process. She lives on a farm running a small business with her family, called La La Lavenderland. They make a variety of homemade body-care products out of the lavender they grow and sell them at craft fairs and farmers markets. In addition to running the business with her mom, Ellidie also spends time gaming. Solving problems in the virtual world can be just as rewarding as it is in real life. At least, the npcs seem pretty happy. \n"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
+  "clippingMaskMode": 0,
   "do_objectID": "59F2A018-ABE4-4ECB-A8C7-7123F295E889",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -36,12 +68,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 669,
-    "width": 314,
-    "x": 236,
-    "y": 66
+    "height": 378,
+    "width": 470,
+    "x": 16,
+    "y": 286
   },
-  "glyphBounds": "{{0, 2}, {313, 432}}",
+  "glyphBounds": "{{0, 2}, {469, 320}}",
+  "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
