@@ -1,7 +1,6 @@
 {
   "_class": "page",
   "booleanOperation": -1,
-  "clippingMaskMode": 0,
   "do_objectID": "4BEFED1B-DF4F-49F4-8190-9CAE99D034AF",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,7 +20,6 @@
     "y": 0
   },
   "hasClickThrough": true,
-  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": -890,

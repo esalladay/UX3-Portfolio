@@ -1,0 +1,85 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "1F9FE42B-CF00-4FC4-811C-15EAD90106C1",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "do_objectID": "259B7332-60CD-446E-98B7-F4AAA288E453",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "46E8044E-98BF-4E5F-A278-A4F3032EC41B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D8EC9F98-12EC-4421-BDA7-1DD7D4C4300F",
+    "height": 3300,
+    "width": 5100,
+    "x": -2550,
+    "y": 3105
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "C7C2CE89-2F22-45E3-B2AF-4E1C1BEDE771",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "2F3072E9-32B8-4D44-8D20-1B25E42D0868"
+    }
+  ],
+  "name": "Project 1 meta",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 3300,
+    "name": "11x17 Landscape",
+    "offersLandscapeVariant": 0,
+    "width": 5100
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "82B4525B-B192-45EF-85CA-A0D1B6231C21",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "C626925E-4011-494D-A597-A8F7002CBAA9",
+    "guides": [
+    ]
+  }
+}
