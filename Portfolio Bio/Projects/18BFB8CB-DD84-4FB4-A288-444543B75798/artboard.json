@@ -42,11 +42,11 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "5AC5D713-33CA-4AEA-8545-E2B58FA8EEFE"
+      "id": "FACA5699-9DF0-456E-A94C-3E7CCA957086"
     }
   ],
   "name": "Project 1",

@@ -46,11 +46,11 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "2F3072E9-32B8-4D44-8D20-1B25E42D0868"
+      "id": "31CDEE66-6B1B-4A03-9ED1-986C03014DC8"
     }
   ],
   "name": "Project 1 meta",

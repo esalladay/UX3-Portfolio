@@ -21,7 +21,7 @@
   "foreignSymbols": [
     {
       "_class": "MSImmutableForeignSymbol",
-      "libraryID": "2B6902F5-CF7F-4B0D-ABC2-8FA3EBB6F88E",
+      "libraryID": "7ee89d91-de1a-11e8-949a-f7ea419cca1c",
       "originalMaster": {
         "_class": "symbolMaster",
         "backgroundColor": {
@@ -32,8 +32,8 @@
           "red": 1
         },
         "booleanOperation": -1,
-        "changeIdentifier": 41,
-        "do_objectID": "25D27CC7-6341-4FE2-8A7F-2267AF60AC06",
+        "changeIdentifier": 3,
+        "do_objectID": "7478CFC6-F6E0-43C6-B7D7-CBE439EDA536",
         "exportOptions": {
           "_class": "exportOptions",
           "exportFormats": [
@@ -46,8 +46,8 @@
         "frame": {
           "_class": "rect",
           "constrainProportions": false,
-          "height": 83,
-          "width": 754,
+          "height": 72,
+          "width": 495,
           "x": 100,
           "y": 0
         },
@@ -94,17 +94,18 @@
                     },
                     "paragraphStyle": {
                       "_class": "paragraphStyle"
-                    }
+                    },
+                    "textStyleVerticalAlignmentKey": 0
                   },
-                  "length": 19,
+                  "length": 12,
                   "location": 0
                 }
               ],
-              "string": "Project 1 Meta Data"
+              "string": "Page heading"
             },
             "automaticallyDrawOnUnderlyingPath": false,
             "booleanOperation": -1,
-            "do_objectID": "8BED2FBC-EBEB-40A6-B344-43C104D0A079",
+            "do_objectID": "5085EE01-1661-424A-971C-1FD5760904E5",
             "dontSynchroniseWithSymbol": false,
             "exportOptions": {
               "_class": "exportOptions",
@@ -119,11 +120,11 @@
               "_class": "rect",
               "constrainProportions": false,
               "height": 72,
-              "width": 747,
+              "width": 495,
               "x": 0,
-              "y": 8
+              "y": 0
             },
-            "glyphBounds": "{{7, 11}, {740, 56}}",
+            "glyphBounds": "{{7, 12}, {483, 51}}",
             "isFixedToViewport": false,
             "isFlippedHorizontal": false,
             "isFlippedVertical": false,
@@ -131,7 +132,7 @@
             "isVisible": true,
             "layerListExpandedType": 0,
             "lineSpacingBehaviour": 2,
-            "name": "Project 1 Meta Data",
+            "name": "Page heading",
             "nameIsFixed": false,
             "resizingConstraint": 47,
             "resizingType": 0,
@@ -161,7 +162,8 @@
                   },
                   "paragraphStyle": {
                     "_class": "paragraphStyle"
-                  }
+                  },
+                  "textStyleVerticalAlignmentKey": 0
                 },
                 "verticalAlignment": 0
               },
@@ -170,7 +172,7 @@
             "textBehaviour": 0
           }
         ],
-        "name": "Page Heading",
+        "name": "page heading",
         "nameIsFixed": false,
         "resizesContent": false,
         "resizingConstraint": 63,
@@ -184,7 +186,7 @@
           "startMarkerType": 0,
           "windingRule": 1
         },
-        "symbolID": "7D8A73A9-417F-4421-B95E-E2BF2325B5B9",
+        "symbolID": "73D2A8A3-69FD-45D1-B541-D5D7A68FE7E2",
         "verticalRulerData": {
           "_class": "rulerData",
           "base": 0,
@@ -192,7 +194,7 @@
           ]
         }
       },
-      "sourceLibraryName": "UX Portfolio_Library",
+      "sourceLibraryName": "UX-Portfolio-Library",
       "symbolMaster": {
         "_class": "symbolMaster",
         "backgroundColor": {
@@ -203,8 +205,8 @@
           "red": 1
         },
         "booleanOperation": -1,
-        "changeIdentifier": 41,
-        "do_objectID": "25D27CC7-6341-4FE2-8A7F-2267AF60AC06",
+        "changeIdentifier": 3,
+        "do_objectID": "7478CFC6-F6E0-43C6-B7D7-CBE439EDA536",
         "exportOptions": {
           "_class": "exportOptions",
           "exportFormats": [
@@ -217,8 +219,8 @@
         "frame": {
           "_class": "rect",
           "constrainProportions": false,
-          "height": 83,
-          "width": 754,
+          "height": 72,
+          "width": 495,
           "x": 100,
           "y": 0
         },
@@ -265,17 +267,18 @@
                     },
                     "paragraphStyle": {
                       "_class": "paragraphStyle"
-                    }
+                    },
+                    "textStyleVerticalAlignmentKey": 0
                   },
-                  "length": 19,
+                  "length": 12,
                   "location": 0
                 }
               ],
-              "string": "Project 1 Meta Data"
+              "string": "Page heading"
             },
             "automaticallyDrawOnUnderlyingPath": false,
             "booleanOperation": -1,
-            "do_objectID": "8BED2FBC-EBEB-40A6-B344-43C104D0A079",
+            "do_objectID": "5085EE01-1661-424A-971C-1FD5760904E5",
             "dontSynchroniseWithSymbol": false,
             "exportOptions": {
               "_class": "exportOptions",
@@ -290,11 +293,11 @@
               "_class": "rect",
               "constrainProportions": false,
               "height": 72,
-              "width": 747,
+              "width": 495,
               "x": 0,
-              "y": 8
+              "y": 0
             },
-            "glyphBounds": "{{7, 11}, {740, 56}}",
+            "glyphBounds": "{{7, 12}, {483, 51}}",
             "isFixedToViewport": false,
             "isFlippedHorizontal": false,
             "isFlippedVertical": false,
@@ -302,7 +305,7 @@
             "isVisible": true,
             "layerListExpandedType": 0,
             "lineSpacingBehaviour": 2,
-            "name": "Project 1 Meta Data",
+            "name": "Page heading",
             "nameIsFixed": false,
             "resizingConstraint": 47,
             "resizingType": 0,
@@ -332,7 +335,8 @@
                   },
                   "paragraphStyle": {
                     "_class": "paragraphStyle"
-                  }
+                  },
+                  "textStyleVerticalAlignmentKey": 0
                 },
                 "verticalAlignment": 0
               },
@@ -341,7 +345,7 @@
             "textBehaviour": 0
           }
         ],
-        "name": "Page Heading",
+        "name": "page heading",
         "nameIsFixed": false,
         "resizesContent": false,
         "resizingConstraint": 63,
@@ -355,7 +359,7 @@
           "startMarkerType": 0,
           "windingRule": 1
         },
-        "symbolID": "E610DB92-EC83-4915-AD78-1301EE96AFE6",
+        "symbolID": "91E65E80-E4C5-4AF1-A6F1-323A17DAA544",
         "verticalRulerData": {
           "_class": "rulerData",
           "base": 0,
